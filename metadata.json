@@ -1,0 +1,6 @@
+{
+  "name": "Next Level Services",
+  "description": "Premium lead generation website for an Internet Service consultant helping customers lower their monthly bills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
